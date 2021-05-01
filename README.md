@@ -5,14 +5,14 @@
 \
 
 <p align="center">
-    <a href="#visao-geral">Visão Geral</a> -
-    <a href="#fases-dos-projetos">Disciplinas</a> -
-    <a href="#productBaklog">productBaklog</a> -
+    <a href="#Visao-Geral">Visão Geral</a> -
+    <a href="#Disciplinas">Disciplinas</a> -
+    <a href="#productBacklog">productBacklog</a> -
     <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>-
-    <a href="#tecnologias-utilizadas">Backlog Sprint</a>-
-    <a href="#tecnologias-utilizadas">Cronograma</a>-
-    <a href="#tecnologias-utilizadas">Sprint Card</a>-
-    <a href="#tecnologias-utilizadas">Documentações</a>-
+    <a href="#Backlog Sprint">Backlog Sprint</a>-
+    <a href="#Cronograma">Cronograma</a>-
+    <a href="#Sprint Card">Sprint Card</a>-
+    <a href="#Documentações">Documentações</a>-
 </p>
 
 
