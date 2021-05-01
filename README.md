@@ -76,7 +76,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
    <p align ="center">
 
-   <h3 align="center">PRODUCT BACKLOG</h3>
+   <h3 align="center">PRODUCT BACKLOG 📃 </h3>
 
 <h align="center">Desenvolvemos uma lista com as descrições de todas as funcionalidades do Produto.</h>
 
