@@ -151,15 +151,15 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
 <h5 align = "center">
    <a href=''>
-   KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021</h5>
+   KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021 ✔</h5>
 
    <h5 align = "center">
    <a href=''>
-   SPRINT 1 </a> - 08/03 a 28/03/2021</h5>
+   SPRINT 1 </a> - 08/03 a 28/03/2021 ✔</h5>
 
    <h5 align = "center">
    <a href=''>
-   SPRINT 2 </a> - 29/03 a 18/04/2021</h5>
+   SPRINT 2 </a> - 29/03 a 18/04/2021 ✔</h5>
 
    <h5 align = "center">
    <a href=''>
