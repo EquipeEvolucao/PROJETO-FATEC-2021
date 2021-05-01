@@ -132,6 +132,66 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <hr>
 
    <p align ="center">
+
+   <h3 align="center">CRONOGRAMA API</h3>
+
+
+ <p align=center>Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das sprints.
+
+<h5 align = "center">
+   <a href=''>
+   KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021</h5>
+
+   <h5 align = "center">
+   <a href=''>
+   SPRINT 1 </a> - 08/03 a 28/03/2021</h5>
+
+   <h5 align = "center">
+   <a href=''>
+   SPRINT 2 </a> - 29/03 a 18/04/2021</h5>
+
+   <h5 align = "center">
+   <a href=''>
+   SPRINT 3 </a> - 26/04 a 16/05/2021</h5>
+
+   <h5 align = "center">
+   <a href=''>
+   SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
+
+   <h5 align = "center">
+
+   APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
+
+   <h5 align = "center">
+
+   FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
+
+  </h5>
+
+  <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+
+
+
+
+
+ <br/>
  
 
 
