@@ -115,7 +115,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
  <h3 align="center">BACKLOG DAS SPRINTS</h3>
 
 
- Atividades desmembradas para serem executadas em cada Sprints.
+ <p align=center>Atividades desmembradas para serem executadas em cada Sprints.
 
 
 
