@@ -34,7 +34,7 @@ banco de dados devem executar.
   <p align ="center">
 
 
-### DISCIPLINAS INTEGRADAS: Engenharia de Software / Sistema de Informação.
+### DISCIPLINAS : Engenharia de Software / Sistema de Informação.
 
 Projeto desenvolvidos por alunos do segundo semestre do curso de Analise e desenvolvimento 
 
@@ -53,7 +53,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
  
 
-Visualização dos Integrantes da Equipe: [Evolução]() 
+ ### Visualização dos Integrantes da Equipe: [Evolução]() 
 
 <hr>
 
@@ -67,11 +67,9 @@ Visualização dos Integrantes da Equipe: [Evolução]()
 
    <h3 align="center">PRODUCT BACKLOG</h3>
 
-<br/>
+<h3 align="center">Desenvolvemos uma lista com as descrições de todas as funcionalidades do Produto.</h3>
 
-Desenvolvemos uma lista com as descrições de todas as funcionalidades do Produto.
-
-<br/>
+ <br/>
 
 ![](https://user-images.githubusercontent.com/73767256/115166210-5101c900-a088-11eb-9064-126610d986e2.jpeg)
 
