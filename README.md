@@ -63,7 +63,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
  
 
- ### Visualização dos Integrantes da Equipe: [Evolução]() 
+ ### Visualização dos Integrantes da Equipe: [Evolução](https://github.com/ferreirarita/PROJETO-FATEC-2021/tree/main/Referencias/Sprint1) 
 
  <hr>
 
