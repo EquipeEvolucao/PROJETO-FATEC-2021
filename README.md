@@ -55,7 +55,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
  ### Visualização dos Integrantes da Equipe: [Evolução]() 
 
-<hr>
+ <hr>
 
    <p align ="center">
 
@@ -67,7 +67,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
    <h3 align="center">PRODUCT BACKLOG</h3>
 
-<h3 align="center">Desenvolvemos uma lista com as descrições de todas as funcionalidades do Produto.</h3>
+<h align="center">Desenvolvemos uma lista com as descrições de todas as funcionalidades do Produto.</h>
 
  <br/>
 
