@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Projeto - DASH W</h1
+<h1 align="center">Projeto - DASH W </h1
 \
 \
 
@@ -23,7 +23,7 @@
 
 
 
-# Visão Geral.
+# Visão Geral🔍 .
 
 
 O Projeto tem por objetivo unificar dados de fontes diferentes em uma unica base de dados.
