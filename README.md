@@ -5,7 +5,8 @@
 \
 
 
-# Visão Geral
+# Visão Geral.
+
 
 O Projeto tem por objetivo unificar dados de fontes diferentes em uma unica base de dados.
 
@@ -13,18 +14,35 @@ Desenvolvendo assim as quatro funções basicas que geralmente os sistemas que m
 
 banco de dados devem executar.  
 
-### Disciplina: ENGENHARIA DE SOFTWARE / SISTEMA DE INFORMAÇÃO
 
-Projeto desenvolvidos por alunos do segundo semestre do curso de Analise e desenvolvimento de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
-\
-\
+<p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+ <h5 align = "center">
+
+
+  <p align ="center">
+
+
+### DISCIPLINAS: Engenharia de Software / Sistema de Informação.
+
+Projeto desenvolvidos por alunos do segundo semestre do curso de Analise e desenvolvimento 
+
+de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
 
 
 
 
-
-
-Visão Geral 
 
 
