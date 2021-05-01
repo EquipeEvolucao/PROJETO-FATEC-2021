@@ -85,11 +85,13 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
    ### Tecnologias Utilizadas:
 
-   NODE.JS: Aplicação que possibilita o processamento, a renderização e a execução de elementos escritos em linguagem não suportadas nativamente pelo sistema que permite ao programador desenvolver aplicações Java Script diretamente do Servidor.
+  ### NODE.JS: 
+   Aplicação que possibilita o processamento, a renderização e a execução de elementos escritos em linguagem não suportadas nativamente pelo sistema que permite ao programador desenvolver aplicações Java Script diretamente do Servidor.
 
    <br/>
 
-   REACT.JS: É portanto, uma biblioteca de JavaScript, open source,utilizada para construir user interfaces, nomeadas para aplicações de páginas únicas.Assim possibilita aos desenvlvedores criarem aplicações web, tendo a facilidade de alterar elementos ou dados exibidos, sem carregar a página    
+  ### REACT.JS:
+   É portanto, uma biblioteca de JavaScript, open source,utilizada para construir user interfaces, nomeadas para aplicações de páginas únicas.Assim possibilita aos desenvlvedores criarem aplicações web, tendo a facilidade de alterar elementos ou dados exibidos, sem carregar a página    
 
 
 
