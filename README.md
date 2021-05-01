@@ -1,9 +1,26 @@
 
-
 <h1 align="center">Projeto - DASH W </h1
 
-\
-\
+
+<p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+ <h5 align = "center">
+
+
+  <p align ="center">
+
+
 
 <p align="center">
     <a href="#Visao-Geral">Visão Geral</a> -
