@@ -144,7 +144,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
    <p align ="center">
 
-   <h3 align="center">CRONOGRAMA API</h3>
+   <h3 align="center">CRONOGRAMA API 📅</h3>
 
 
  <p align=center>Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das sprints.
@@ -179,7 +179,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
    <h5 align = "center">
 
- VISUALIZAÇÃO DOCUMENTAÇÕES: [SPRINTS]() 
+ VISUALIZAÇÃO DOCUMENTAÇÕES 📁: [SPRINTS]() 
 
   </h5>
 
