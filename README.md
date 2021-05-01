@@ -23,7 +23,7 @@
 
 
 
-# Visão Geral🔍 .
+# Visão Geral🔎 .
 
 
 O Projeto tem por objetivo unificar dados de fontes diferentes em uma unica base de dados.
