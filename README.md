@@ -216,7 +216,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <p align ="center">
  
  <h5 align = "center">
-    <h4 align = "center"> SPRINT CARD </h4>
+    <h3 align = "center"> SPRINT CARD </h3>
 
    <p align=center>Representação das Sprints por etapas
 
