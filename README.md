@@ -91,11 +91,30 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <br/>
 
   ### REACT.JS:
-   É portanto, uma biblioteca de JavaScript, open source,utilizada para construir user interfaces, nomeadas para aplicações de páginas únicas.Assim possibilita aos desenvlvedores criarem aplicações web, tendo a facilidade de alterar elementos ou dados exibidos, sem carregar a página   
+   É portanto, uma biblioteca de JavaScript, open source,utilizada para construir user interfaces, nomeadas para aplicações de páginas únicas.Assim possibilita aos desenvlvedores criarem aplicações web, tendo a facilidade de alterar elementos ou dados exibidos, sem carregar a página  
 
-   <h3 align="center">BACKLOG DAS SPRINTS</h3>
+<p align "center">
 
- <h align="center">Atividades desmembradas para serem executadas em cada Sprints.</h>
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+ <h5 align = "center">
+
+
+  <p align ="center">
+
+
+ <h3 align="center">BACKLOG DAS SPRINTS</h3>
+
+ <h3 align="center">Atividades desmembradas para serem executadas em cada Sprints.</h3
 
  <br/>
 
