@@ -9,9 +9,9 @@
     <a href="#Disciplinas">Disciplinas</a> -
     <a href="#productBacklog">productBacklog</a> -
     <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>-
-    <a href="#Backlog Sprint">Backlog Sprint</a>-
+    <a href="#Backlog - Sprint">Backlog Sprint</a>-
     <a href="#Cronograma">Cronograma</a>-
-    <a href="#Sprint Card">Sprint Card</a>-
+    <a href="#Sprint-Card">Sprint Card</a>-
     <a href="#Documentações">Documentações</a>-
 </p>
 
