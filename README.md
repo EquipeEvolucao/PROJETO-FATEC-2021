@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Projeto - DASH W </h1
+
 \
 \
 
@@ -14,13 +15,6 @@
     <a href="#Sprint-Card">Sprint Card</a>-
     <a href="#Documentações">Documentações</a>-
 </p>
-
-
-
-
-
-
-
 
 
 # Visão Geral🔎 .
@@ -52,7 +46,7 @@ banco de dados devem executar.
   <p align ="center">
 
 
-### DISCIPLINAS : Engenharia de Software / Sistema de Informação.
+### DISCIPLINAS : Engenharia de Software / Sistema de Informação 🎓.
 
 Projeto desenvolvidos por alunos do segundo semestre do curso de Analise e desenvolvimento 
 
