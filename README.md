@@ -34,7 +34,7 @@ banco de dados devem executar.
   <p align ="center">
 
 
-### DISCIPLINAS: Engenharia de Software / Sistema de Informação.
+### DISCIPLINAS INTEGRADAS: Engenharia de Software / Sistema de Informação.
 
 Projeto desenvolvidos por alunos do segundo semestre do curso de Analise e desenvolvimento 
 
