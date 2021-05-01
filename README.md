@@ -40,6 +40,48 @@ Projeto desenvolvidos por alunos do segundo semestre do curso de Analise e desen
 
 de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
+<hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+ 
+
+Visualização dos Integrantes da Equipe: [Evolução]() 
+
+<hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+<h4 align = "center"> PRODUCT BACKLOG </h4>
+
+Desenvolvemos uma lista com as descrições de todas as funcionalidades do Produto.
+
+![](https://user-images.githubusercontent.com/73767256/115166210-5101c900-a088-11eb-9064-126610d986e2.jpeg)
+
+
+
+
+ 
+
+  
+
+
+  
+
 
 
 
