@@ -186,7 +186,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
    <h5 align = "center">
 
- VISUALIZAÇÃO DOCUMENTAÇÕES: [Sprints]() 
+ VISUALIZAÇÃO DOCUMENTAÇÕES: [SPRINTS]() 
 
   </h5>
 
