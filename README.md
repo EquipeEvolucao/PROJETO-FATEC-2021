@@ -19,9 +19,8 @@
 # Visão Geral🔎 .
 
 
-O Projeto tem por objetivo unificar dados de fontes diferentes em uma unica base de dados.
-Desenvolvendo assim as quatro funções basicas que geralmente os sistemas que manipulam 
-banco de dados devem executar.  
+O Projeto DASH W tem por objetivo unificar dados de fontes diferentes em uma unica base de dados.
+Criamos um Painel de Controle para manipular as informações na tela, criamos quatro botões que executão as funções basicas que geralmente de maninulação de informações .  
 
 <h3 align = "center">  <img src="https://user-images.githubusercontent.com/83122390/116773323-2706ba00-aa2b-11eb-94a9-4d30e187ed39.jpg"  alt="drawing" width =150 </h3>
 
