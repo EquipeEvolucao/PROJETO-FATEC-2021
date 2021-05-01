@@ -65,10 +65,13 @@ Visualização dos Integrantes da Equipe: [Evolução]()
 
    <p align ="center">
 
+   <h3 align="center">PRODUCT BACKLOG</h3>
 
-<h4 align = "center"> PRODUCT BACKLOG </h4>
+<br/>
 
 Desenvolvemos uma lista com as descrições de todas as funcionalidades do Produto.
+
+<br/>
 
 ![](https://user-images.githubusercontent.com/73767256/115166210-5101c900-a088-11eb-9064-126610d986e2.jpeg)
 
